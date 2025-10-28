@@ -1,0 +1,20 @@
+{
+  "feature_cols": [
+    "year",
+    "prod_prev1",
+    "prod_prev2",
+    "prod_ma2",
+    "prod_delta",
+    "crop",
+    "season"
+  ],
+  "used_features": [
+    "year",
+    "prod_prev1",
+    "prod_prev2",
+    "prod_ma2",
+    "prod_delta",
+    "crop",
+    "season"
+  ]
+}
